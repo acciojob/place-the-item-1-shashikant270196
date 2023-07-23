@@ -3,6 +3,7 @@
 /* 	display:grid; */
 	flex-wrap:wrap;
 	flex-direction:row;
+	justify-content: space-evenly;
 }
 .one{
 	height:200px;
